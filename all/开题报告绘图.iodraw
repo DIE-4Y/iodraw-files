@@ -182,24 +182,9 @@
         <mxCell id="Wodu71MC05HF9JwPe5R6-7" value="交互与可视化模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="617" y="200" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Wodu71MC05HF9JwPe5R6-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" target="Wodu71MC05HF9JwPe5R6-3">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="205" y="310" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Wodu71MC05HF9JwPe5R6-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" target="Wodu71MC05HF9JwPe5R6-5">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="269" y="310" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="Wodu71MC05HF9JwPe5R6-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" target="Wodu71MC05HF9JwPe5R6-5">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="314" y="310" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Wodu71MC05HF9JwPe5R6-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" target="Wodu71MC05HF9JwPe5R6-5">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="359" y="310" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Wodu71MC05HF9JwPe5R6-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" target="Wodu71MC05HF9JwPe5R6-7">
