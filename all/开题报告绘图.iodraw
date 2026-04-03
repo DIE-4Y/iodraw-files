@@ -189,14 +189,14 @@
     </mxGraphModel>
   </diagram>
   <diagram id="2IO49YvD_GBOrx9DbXM7" name="第 4 页">
-    <mxGraphModel dx="1042" dy="559" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1489" dy="799" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="SBnfeaxAWie1swQmbO54-1" value="用户上传文件 (TXT/PDF)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="346" y="790" width="236" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="SBnfeaxAWie1swQmbO54-2" value="Step 1: _read_file" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="SBnfeaxAWie1swQmbO54-2" value="读入到内存" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="375" y="888" width="177" height="177" as="geometry" />
         </mxCell>
         <mxCell id="SBnfeaxAWie1swQmbO54-3" value="content (全文纯文本)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
