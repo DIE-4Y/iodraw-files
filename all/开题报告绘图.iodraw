@@ -223,7 +223,7 @@
         <mxCell id="SBnfeaxAWie1swQmbO54-10" value="存储到 processed_data" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="132" y="2204" width="224" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="SBnfeaxAWie1swQmbO54-11" value="Step 4: _split_chapters" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="SBnfeaxAWie1swQmbO54-11" value="章节划分" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="418" y="1231" width="214" height="214" as="geometry" />
         </mxCell>
         <mxCell id="SBnfeaxAWie1swQmbO54-12" value="chapters" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
