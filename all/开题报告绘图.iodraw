@@ -186,7 +186,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Wodu71MC05HF9JwPe5R6-9" value="文件上传与解析" style="rounded=0;whiteSpace=wrap;html=1;direction=south;textDirection=vertical-lr;" vertex="1" parent="1">
-          <mxGeometry x="80" y="310" width="30" height="170" as="geometry" />
+          <mxGeometry x="87" y="310" width="30" height="170" as="geometry" />
         </mxCell>
         <mxCell id="Wodu71MC05HF9JwPe5R6-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="Wodu71MC05HF9JwPe5R6-11" target="Wodu71MC05HF9JwPe5R6-3">
           <mxGeometry relative="1" as="geometry" />
@@ -260,13 +260,13 @@
           <mxGeometry x="460" y="200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Wodu71MC05HF9JwPe5R6-34" value="共现关系抽取" style="rounded=0;whiteSpace=wrap;html=1;direction=south;textDirection=vertical-lr;" vertex="1" parent="1">
-          <mxGeometry x="455" y="310" width="30" height="170" as="geometry" />
+          <mxGeometry x="460" y="310" width="30" height="170" as="geometry" />
         </mxCell>
         <mxCell id="Wodu71MC05HF9JwPe5R6-35" value="图谱关系构建" style="rounded=0;whiteSpace=wrap;html=1;direction=south;textDirection=vertical-lr;" vertex="1" parent="1">
           <mxGeometry x="505" y="310" width="30" height="170" as="geometry" />
         </mxCell>
         <mxCell id="Wodu71MC05HF9JwPe5R6-36" value="图指标计算" style="rounded=0;whiteSpace=wrap;html=1;direction=south;textDirection=vertical-lr;" vertex="1" parent="1">
-          <mxGeometry x="555" y="310" width="30" height="170" as="geometry" />
+          <mxGeometry x="550" y="310" width="30" height="170" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
