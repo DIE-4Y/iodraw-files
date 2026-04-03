@@ -242,17 +242,20 @@
         <mxCell id="Wodu71MC05HF9JwPe5R6-27" value="人物档案卡" style="rounded=0;whiteSpace=wrap;html=1;direction=south;textDirection=vertical-lr;" vertex="1" parent="1">
           <mxGeometry x="827" y="310" width="30" height="170" as="geometry" />
         </mxCell>
+        <mxCell id="Wodu71MC05HF9JwPe5R6-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Wodu71MC05HF9JwPe5R6-28" target="Wodu71MC05HF9JwPe5R6-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Wodu71MC05HF9JwPe5R6-28" value="图计算模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Wodu71MC05HF9JwPe5R6-34" value="共现关系抽取" style="rounded=0;whiteSpace=wrap;html=1;direction=south;textDirection=vertical-lr;" vertex="1" parent="1">
-          <mxGeometry x="254" y="320" width="30" height="170" as="geometry" />
+          <mxGeometry x="455" y="310" width="30" height="170" as="geometry" />
         </mxCell>
         <mxCell id="Wodu71MC05HF9JwPe5R6-35" value="图谱关系构建" style="rounded=0;whiteSpace=wrap;html=1;direction=south;textDirection=vertical-lr;" vertex="1" parent="1">
-          <mxGeometry x="309" y="320" width="30" height="170" as="geometry" />
+          <mxGeometry x="510" y="310" width="30" height="170" as="geometry" />
         </mxCell>
         <mxCell id="Wodu71MC05HF9JwPe5R6-36" value="图指标计算" style="rounded=0;whiteSpace=wrap;html=1;direction=south;textDirection=vertical-lr;" vertex="1" parent="1">
-          <mxGeometry x="354" y="320" width="30" height="170" as="geometry" />
+          <mxGeometry x="555" y="310" width="30" height="170" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
