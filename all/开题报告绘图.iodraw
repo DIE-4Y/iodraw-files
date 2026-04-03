@@ -238,7 +238,7 @@
         <mxCell id="SBnfeaxAWie1swQmbO54-15" value="段落分析" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="684" y="1230" width="217" height="217" as="geometry" />
         </mxCell>
-        <mxCell id="SBnfeaxAWie1swQmbO54-16" value="paragraphs_info ⭐" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="SBnfeaxAWie1swQmbO54-16" value="段落信息列表" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="691" y="1512" width="202" height="48" as="geometry" />
         </mxCell>
         <mxCell id="SBnfeaxAWie1swQmbO54-17" value="存储到 processed_data" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
