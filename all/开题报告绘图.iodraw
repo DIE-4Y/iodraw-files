@@ -226,7 +226,7 @@
         <mxCell id="SBnfeaxAWie1swQmbO54-11" value="章节划分" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="418" y="1231" width="214" height="214" as="geometry" />
         </mxCell>
-        <mxCell id="SBnfeaxAWie1swQmbO54-12" value="chapters" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="SBnfeaxAWie1swQmbO54-12" value="章节列表" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="464" y="1512" width="122" height="48" as="geometry" />
         </mxCell>
         <mxCell id="SBnfeaxAWie1swQmbO54-13" value="提取 chapter_indices" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
