@@ -202,7 +202,7 @@
         <mxCell id="SBnfeaxAWie1swQmbO54-3" value="content (全文纯文本)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="358" y="1115" width="212" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="SBnfeaxAWie1swQmbO54-4" value="Step 2: _extract_characters" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="SBnfeaxAWie1swQmbO54-4" value="角色粗提取" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="120" y="1214" width="248" height="248" as="geometry" />
         </mxCell>
         <mxCell id="SBnfeaxAWie1swQmbO54-5" value="characters_initial" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
