@@ -159,85 +159,85 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="Wodu71MC05HF9JwPe5R6-1" value="基于人物关系图谱的“剧本杀/小说”辅助阅读系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="371" y="140" width="346" height="60" as="geometry" />
+          <mxGeometry x="231" y="100" width="346" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Wodu71MC05HF9JwPe5R6-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="Wodu71MC05HF9JwPe5R6-3" target="Wodu71MC05HF9JwPe5R6-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Wodu71MC05HF9JwPe5R6-3" value="文本处理模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="307" y="240" width="120" height="60" as="geometry" />
+          <mxGeometry x="167" y="200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Wodu71MC05HF9JwPe5R6-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="Wodu71MC05HF9JwPe5R6-5" target="Wodu71MC05HF9JwPe5R6-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Wodu71MC05HF9JwPe5R6-5" value="图谱构建与计算模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="474" y="240" width="120" height="60" as="geometry" />
+          <mxGeometry x="334" y="200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Wodu71MC05HF9JwPe5R6-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="Wodu71MC05HF9JwPe5R6-7" target="Wodu71MC05HF9JwPe5R6-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Wodu71MC05HF9JwPe5R6-7" value="交互与可视化模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="650" y="240" width="120" height="60" as="geometry" />
+          <mxGeometry x="510" y="200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Wodu71MC05HF9JwPe5R6-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="Wodu71MC05HF9JwPe5R6-9" target="Wodu71MC05HF9JwPe5R6-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Wodu71MC05HF9JwPe5R6-9" value="文件上传与解析" style="rounded=0;whiteSpace=wrap;html=1;direction=south;textDirection=vertical-lr;" vertex="1" parent="1">
-          <mxGeometry x="300" y="350" width="30" height="170" as="geometry" />
+          <mxGeometry x="160" y="310" width="30" height="170" as="geometry" />
         </mxCell>
         <mxCell id="Wodu71MC05HF9JwPe5R6-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="Wodu71MC05HF9JwPe5R6-11" target="Wodu71MC05HF9JwPe5R6-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Wodu71MC05HF9JwPe5R6-11" value="文本分段处理" style="rounded=0;whiteSpace=wrap;html=1;direction=south;textDirection=vertical-lr;" vertex="1" parent="1">
-          <mxGeometry x="352" y="350" width="30" height="170" as="geometry" />
+          <mxGeometry x="212" y="310" width="30" height="170" as="geometry" />
         </mxCell>
         <mxCell id="Wodu71MC05HF9JwPe5R6-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="Wodu71MC05HF9JwPe5R6-13" target="Wodu71MC05HF9JwPe5R6-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Wodu71MC05HF9JwPe5R6-13" value="命名实体识别与分词" style="rounded=0;whiteSpace=wrap;html=1;direction=south;textDirection=vertical-lr;" vertex="1" parent="1">
-          <mxGeometry x="410" y="350" width="30" height="170" as="geometry" />
+          <mxGeometry x="270" y="310" width="30" height="170" as="geometry" />
         </mxCell>
         <mxCell id="Wodu71MC05HF9JwPe5R6-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="Wodu71MC05HF9JwPe5R6-15" target="Wodu71MC05HF9JwPe5R6-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Wodu71MC05HF9JwPe5R6-15" value="共现关系抽取" style="rounded=0;whiteSpace=wrap;html=1;direction=south;textDirection=vertical-lr;" vertex="1" parent="1">
-          <mxGeometry x="464" y="350" width="30" height="170" as="geometry" />
+          <mxGeometry x="324" y="310" width="30" height="170" as="geometry" />
         </mxCell>
         <mxCell id="Wodu71MC05HF9JwPe5R6-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="Wodu71MC05HF9JwPe5R6-17" target="Wodu71MC05HF9JwPe5R6-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Wodu71MC05HF9JwPe5R6-17" value="图谱关系构建" style="rounded=0;whiteSpace=wrap;html=1;direction=south;textDirection=vertical-lr;" vertex="1" parent="1">
-          <mxGeometry x="519" y="350" width="30" height="170" as="geometry" />
+          <mxGeometry x="379" y="310" width="30" height="170" as="geometry" />
         </mxCell>
         <mxCell id="Wodu71MC05HF9JwPe5R6-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="Wodu71MC05HF9JwPe5R6-19" target="Wodu71MC05HF9JwPe5R6-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Wodu71MC05HF9JwPe5R6-19" value="图指标计算" style="rounded=0;whiteSpace=wrap;html=1;direction=south;textDirection=vertical-lr;" vertex="1" parent="1">
-          <mxGeometry x="564" y="350" width="30" height="170" as="geometry" />
+          <mxGeometry x="424" y="310" width="30" height="170" as="geometry" />
         </mxCell>
         <mxCell id="Wodu71MC05HF9JwPe5R6-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="Wodu71MC05HF9JwPe5R6-21" target="Wodu71MC05HF9JwPe5R6-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Wodu71MC05HF9JwPe5R6-21" value="可视化图谱" style="rounded=0;whiteSpace=wrap;html=1;direction=south;textDirection=vertical-lr;" vertex="1" parent="1">
-          <mxGeometry x="620" y="350" width="30" height="170" as="geometry" />
+          <mxGeometry x="480" y="310" width="30" height="170" as="geometry" />
         </mxCell>
         <mxCell id="Wodu71MC05HF9JwPe5R6-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="Wodu71MC05HF9JwPe5R6-23" target="Wodu71MC05HF9JwPe5R6-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Wodu71MC05HF9JwPe5R6-23" value="章节分页" style="rounded=0;whiteSpace=wrap;html=1;direction=south;textDirection=vertical-lr;" vertex="1" parent="1">
-          <mxGeometry x="667" y="350" width="30" height="170" as="geometry" />
+          <mxGeometry x="527" y="310" width="30" height="170" as="geometry" />
         </mxCell>
         <mxCell id="Wodu71MC05HF9JwPe5R6-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="Wodu71MC05HF9JwPe5R6-25" target="Wodu71MC05HF9JwPe5R6-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Wodu71MC05HF9JwPe5R6-25" value="图谱交互" style="rounded=0;whiteSpace=wrap;html=1;direction=south;textDirection=vertical-lr;" vertex="1" parent="1">
-          <mxGeometry x="717" y="350" width="30" height="170" as="geometry" />
+          <mxGeometry x="577" y="310" width="30" height="170" as="geometry" />
         </mxCell>
         <mxCell id="Wodu71MC05HF9JwPe5R6-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="Wodu71MC05HF9JwPe5R6-27" target="Wodu71MC05HF9JwPe5R6-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Wodu71MC05HF9JwPe5R6-27" value="人物档案卡" style="rounded=0;whiteSpace=wrap;html=1;direction=south;textDirection=vertical-lr;" vertex="1" parent="1">
-          <mxGeometry x="777" y="350" width="30" height="170" as="geometry" />
+          <mxGeometry x="637" y="310" width="30" height="170" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
