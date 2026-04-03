@@ -217,7 +217,7 @@
         <mxCell id="SBnfeaxAWie1swQmbO54-8" value="角色精提取" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="120" y="1807" width="248" height="248" as="geometry" />
         </mxCell>
-        <mxCell id="SBnfeaxAWie1swQmbO54-9" value="characters (最终版)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="SBnfeaxAWie1swQmbO54-9" value="人物列表" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="144" y="2105" width="200" height="48" as="geometry" />
         </mxCell>
         <mxCell id="SBnfeaxAWie1swQmbO54-10" value="存储到 processed_data" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
