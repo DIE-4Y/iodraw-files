@@ -359,8 +359,11 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wsFXx2uYRrPBi_x-GYss-12" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="wsFXx2uYRrPBi_x-GYss-12" value="绘制第一章节人物关系图谱" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="354" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wsFXx2uYRrPBi_x-GYss-14" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="160" y="525" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
