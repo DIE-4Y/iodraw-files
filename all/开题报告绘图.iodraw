@@ -324,6 +324,10 @@
         <mxCell id="wsFXx2uYRrPBi_x-GYss-3" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;rounded=0;curved=0;" edge="1" parent="1" source="wsFXx2uYRrPBi_x-GYss-1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="220" y="180" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="220" y="200" />
+              <mxPoint x="220" y="200" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="wsFXx2uYRrPBi_x-GYss-1" value="用户输入" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;rotation=0;" vertex="1" parent="1">
@@ -341,7 +345,7 @@
           <mxGeometry x="160" y="200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wsFXx2uYRrPBi_x-GYss-5" value="绘制第X章节人物关系图谱" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="320" width="120" height="60" as="geometry" />
+          <mxGeometry x="160" y="340" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wsFXx2uYRrPBi_x-GYss-13" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wsFXx2uYRrPBi_x-GYss-8" target="wsFXx2uYRrPBi_x-GYss-12">
           <mxGeometry relative="1" as="geometry" />
