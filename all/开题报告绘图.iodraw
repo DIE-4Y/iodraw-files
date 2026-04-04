@@ -340,8 +340,11 @@
         <mxCell id="wsFXx2uYRrPBi_x-GYss-4" value="第一次请求？" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;rotation=0;" vertex="1" parent="1">
           <mxGeometry x="160" y="170" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wsFXx2uYRrPBi_x-GYss-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="wsFXx2uYRrPBi_x-GYss-5" value="绘制第X章节人物关系图谱" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wsFXx2uYRrPBi_x-GYss-13" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wsFXx2uYRrPBi_x-GYss-8" target="wsFXx2uYRrPBi_x-GYss-12">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="wsFXx2uYRrPBi_x-GYss-8" value="文本预处理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="354" y="270" width="120" height="60" as="geometry" />
@@ -355,6 +358,9 @@
           <mxGeometry x="-0.149" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="wsFXx2uYRrPBi_x-GYss-12" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="354" y="410" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
