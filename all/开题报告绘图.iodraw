@@ -409,7 +409,7 @@
         <mxCell id="2_sHbAPsWBWajHy7S5r7-16" value="返回 graph_data" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1772" y="629" width="178" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="2_sHbAPsWBWajHy7S5r7-17" value="FactionAnalyzer.analyze_factions" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="2_sHbAPsWBWajHy7S5r7-17" value="社区发现" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1733" y="727" width="256" height="66" as="geometry" />
         </mxCell>
         <mxCell id="2_sHbAPsWBWajHy7S5r7-18" value="Louvain 社区发现" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
