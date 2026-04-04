@@ -223,14 +223,8 @@
         <mxCell id="otJ-dLRZyGhxTNnClVan-6" value="角色粗提取" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1040" y="1080" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="otJ-dLRZyGhxTNnClVan-26" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="otJ-dLRZyGhxTNnClVan-7">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1240.75" y="1160" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="1241" y="1160" />
-              <mxPoint x="1241" y="1160" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="otJ-dLRZyGhxTNnClVan-30" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="otJ-dLRZyGhxTNnClVan-7" target="otJ-dLRZyGhxTNnClVan-22">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="otJ-dLRZyGhxTNnClVan-7" value="章节划分" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1180.5" y="1080" width="120" height="60" as="geometry" />
