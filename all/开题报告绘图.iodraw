@@ -342,7 +342,7 @@
         <mxCell id="otJ-dLRZyGhxTNnClVan-2" value="读入并临时存储" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1000" y="888" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="otJ-dLRZyGhxTNnClVan-4" value="纯文本" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="otJ-dLRZyGhxTNnClVan-4" value="全文纯文本" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="1000" y="980" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
