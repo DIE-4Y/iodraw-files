@@ -363,7 +363,7 @@
         <mxCell id="otJ-dLRZyGhxTNnClVan-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1320" y="1080" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="otJ-dLRZyGhxTNnClVan-16" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="otJ-dLRZyGhxTNnClVan-16" value="角色列表" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="1040" y="1163" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
