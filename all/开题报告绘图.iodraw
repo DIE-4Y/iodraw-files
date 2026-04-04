@@ -189,13 +189,10 @@
     </mxGraphModel>
   </diagram>
   <diagram id="2IO49YvD_GBOrx9DbXM7" name="文本预处理与实体抽取流程图">
-    <mxGraphModel dx="1303" dy="699" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="476" dy="699" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="SBnfeaxAWie1swQmbO54-17" value="存储到 processed_data" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="680" y="1610" width="224" height="48" as="geometry" />
-        </mxCell>
         <mxCell id="otJ-dLRZyGhxTNnClVan-3" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="otJ-dLRZyGhxTNnClVan-1" target="otJ-dLRZyGhxTNnClVan-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -233,6 +230,11 @@
         </mxCell>
         <mxCell id="otJ-dLRZyGhxTNnClVan-7" value="章节划分" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1180.5" y="1080" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="otJ-dLRZyGhxTNnClVan-29" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="otJ-dLRZyGhxTNnClVan-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1380.25" y="1160" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="otJ-dLRZyGhxTNnClVan-8" value="段落分析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1320" y="1080" width="120" height="60" as="geometry" />
