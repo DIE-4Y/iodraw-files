@@ -329,11 +329,19 @@
         <mxCell id="wsFXx2uYRrPBi_x-GYss-1" value="用户输入" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;rotation=0;" vertex="1" parent="1">
           <mxGeometry x="160" y="90" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="wsFXx2uYRrPBi_x-GYss-6" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="wsFXx2uYRrPBi_x-GYss-4" target="wsFXx2uYRrPBi_x-GYss-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wsFXx2uYRrPBi_x-GYss-7" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="wsFXx2uYRrPBi_x-GYss-6">
+          <mxGeometry x="-0.03" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="wsFXx2uYRrPBi_x-GYss-4" value="第一次请求" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;rotation=0;" vertex="1" parent="1">
           <mxGeometry x="160" y="170" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wsFXx2uYRrPBi_x-GYss-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="250" width="120" height="60" as="geometry" />
+          <mxGeometry x="160" y="270" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
