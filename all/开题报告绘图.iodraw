@@ -379,7 +379,10 @@
         <mxCell id="2_sHbAPsWBWajHy7S5r7-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="2_sHbAPsWBWajHy7S5r7-8" target="2_sHbAPsWBWajHy7S5r7-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="2_sHbAPsWBWajHy7S5r7-8" value="CentralityCalculator.calculate_main_characters" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="2_sHbAPsWBWajHy7S5r7-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="2_sHbAPsWBWajHy7S5r7-8" target="2_sHbAPsWBWajHy7S5r7-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2_sHbAPsWBWajHy7S5r7-8" value="计算度中心性" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1129" y="258" width="260" height="66" as="geometry" />
         </mxCell>
         <mxCell id="2_sHbAPsWBWajHy7S5r7-9" value="构建全文共现图" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
