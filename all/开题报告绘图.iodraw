@@ -371,8 +371,13 @@
         <mxCell id="wsFXx2uYRrPBi_x-GYss-20" value="绘制第X章节人物关系图谱" style="rounded=0;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;rotation=0;" vertex="1" parent="1">
           <mxGeometry x="160" y="340" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wsFXx2uYRrPBi_x-GYss-23" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="wsFXx2uYRrPBi_x-GYss-19" target="wsFXx2uYRrPBi_x-GYss-14">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="wsFXx2uYRrPBi_x-GYss-23" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;rounded=0;curved=0;" edge="1" parent="1" source="wsFXx2uYRrPBi_x-GYss-19" target="wsFXx2uYRrPBi_x-GYss-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="414" y="490" />
+              <mxPoint x="220" y="490" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
