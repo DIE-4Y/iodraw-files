@@ -341,6 +341,9 @@
         <mxCell id="2_sHbAPsWBWajHy7S5r7-1" value="用户上传文件" style="whiteSpace=wrap;strokeWidth=2;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="666" y="20" width="156" height="48" as="geometry" />
         </mxCell>
+        <mxCell id="2_sHbAPsWBWajHy7S5r7-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2_sHbAPsWBWajHy7S5r7-2" target="2_sHbAPsWBWajHy7S5r7-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="2_sHbAPsWBWajHy7S5r7-2" value="NovelProcessor.process_novel" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="615" y="118" width="258" height="66" as="geometry" />
         </mxCell>
@@ -415,13 +418,6 @@
         <mxCell id="2_sHbAPsWBWajHy7S5r7-23" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="2_sHbAPsWBWajHy7S5r7-1" target="2_sHbAPsWBWajHy7S5r7-2">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="2_sHbAPsWBWajHy7S5r7-29" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.73;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="2_sHbAPsWBWajHy7S5r7-2" target="2_sHbAPsWBWajHy7S5r7-8">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1259" y="209" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="2_sHbAPsWBWajHy7S5r7-30" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.33;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="2_sHbAPsWBWajHy7S5r7-8" target="2_sHbAPsWBWajHy7S5r7-9">
