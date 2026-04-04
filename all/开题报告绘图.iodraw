@@ -345,8 +345,10 @@
         <mxCell id="otJ-dLRZyGhxTNnClVan-9" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="otJ-dLRZyGhxTNnClVan-4" target="otJ-dLRZyGhxTNnClVan-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="otJ-dLRZyGhxTNnClVan-10" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="otJ-dLRZyGhxTNnClVan-4" target="otJ-dLRZyGhxTNnClVan-6">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="otJ-dLRZyGhxTNnClVan-11" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="otJ-dLRZyGhxTNnClVan-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1240.75" y="1060" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="otJ-dLRZyGhxTNnClVan-4" value="全文纯文本" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="1181" y="980" width="120" height="60" as="geometry" />
