@@ -338,8 +338,8 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="2_sHbAPsWBWajHy7S5r7-57" value="graph TD&#xa;    A[预处理数据 paragraphs_info] --&gt; B[图谱构建模块]&#xa;    B --&gt; C[NetworkX 共现图]&#xa;    C --&gt; D[度中心性计算]&#xa;    C --&gt; E[Louvain 阵营分析]&#xa;    D --&gt; F[主角排名]&#xa;    E --&gt; G[阵营划分]&#xa;    F --&gt; H[ECharts 可视化]&#xa;    G --&gt; H" style="text;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="400" y="310" width="320" height="150" as="geometry" />
+        <mxCell id="2_sHbAPsWBWajHy7S5r7-58" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="350" y="280" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
