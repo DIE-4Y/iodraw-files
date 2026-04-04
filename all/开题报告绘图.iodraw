@@ -394,7 +394,7 @@
         <mxCell id="2_sHbAPsWBWajHy7S5r7-11" value="综合评分: main_characters" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1494" y="406" width="253" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="2_sHbAPsWBWajHy7S5r7-12" value="GraphGenerator.generate_chapter_graph" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="2_sHbAPsWBWajHy7S5r7-12" value="生成关系图图" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1491" y="513" width="260" height="66" as="geometry" />
         </mxCell>
         <mxCell id="2_sHbAPsWBWajHy7S5r7-13" value="筛选第 0 章段落" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
