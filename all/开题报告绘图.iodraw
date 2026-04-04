@@ -355,6 +355,9 @@
         <mxCell id="2_sHbAPsWBWajHy7S5r7-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="2_sHbAPsWBWajHy7S5r7-3" target="2_sHbAPsWBWajHy7S5r7-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="2_sHbAPsWBWajHy7S5r7-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="2_sHbAPsWBWajHy7S5r7-3" target="2_sHbAPsWBWajHy7S5r7-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="2_sHbAPsWBWajHy7S5r7-3" value="输出结果" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="310" y="234" width="112" height="112" as="geometry" />
         </mxCell>
@@ -368,7 +371,7 @@
           <mxGeometry x="507" y="406" width="210" height="48" as="geometry" />
         </mxCell>
         <mxCell id="2_sHbAPsWBWajHy7S5r7-7" value="paragraphs_info: 段落信息 ⭐" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="767" y="397" width="250" height="66" as="geometry" />
+          <mxGeometry x="767" y="410" width="233" height="53" as="geometry" />
         </mxCell>
         <mxCell id="2_sHbAPsWBWajHy7S5r7-8" value="CentralityCalculator.calculate_main_characters" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1129" y="258" width="260" height="66" as="geometry" />
