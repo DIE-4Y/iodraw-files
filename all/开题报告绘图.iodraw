@@ -344,6 +344,11 @@
         <mxCell id="2_sHbAPsWBWajHy7S5r7-2" value="NovelProcessor.process_novel" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="615" y="118" width="258" height="66" as="geometry" />
         </mxCell>
+        <mxCell id="2_sHbAPsWBWajHy7S5r7-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2_sHbAPsWBWajHy7S5r7-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="365.9999999999998" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="2_sHbAPsWBWajHy7S5r7-3" value="输出结果" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="310" y="234" width="112" height="112" as="geometry" />
         </mxCell>
@@ -413,13 +418,6 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="366" y="209" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="2_sHbAPsWBWajHy7S5r7-25" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.67;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="2_sHbAPsWBWajHy7S5r7-3" target="2_sHbAPsWBWajHy7S5r7-4">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="115" y="372" />
             </Array>
           </mxGeometry>
         </mxCell>
