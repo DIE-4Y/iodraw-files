@@ -193,27 +193,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="SBnfeaxAWie1swQmbO54-4" value="角色粗提取" style="rhombus;strokeWidth=2;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="120" y="1214" width="248" height="248" as="geometry" />
-        </mxCell>
-        <mxCell id="SBnfeaxAWie1swQmbO54-5" value="角色列表" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="151" y="1512" width="186" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="SBnfeaxAWie1swQmbO54-6" value="筛选高频人物 (≥5 次)" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="139" y="1610" width="210" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="SBnfeaxAWie1swQmbO54-7" value="添加到 HanLP 词典" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="147" y="1709" width="194" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="SBnfeaxAWie1swQmbO54-8" value="角色精提取" style="rhombus;strokeWidth=2;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="120" y="1807" width="248" height="248" as="geometry" />
-        </mxCell>
-        <mxCell id="SBnfeaxAWie1swQmbO54-9" value="人物列表" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="144" y="2105" width="200" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="SBnfeaxAWie1swQmbO54-10" value="存储到 processed_data" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="132" y="2204" width="224" height="48" as="geometry" />
-        </mxCell>
         <mxCell id="SBnfeaxAWie1swQmbO54-17" value="存储到 processed_data" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="680" y="1610" width="224" height="48" as="geometry" />
         </mxCell>
