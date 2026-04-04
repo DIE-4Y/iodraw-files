@@ -333,7 +333,7 @@
         <mxCell id="otJ-dLRZyGhxTNnClVan-1" value="上传文件（TXT/PDF）" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;rotation=0;" vertex="1" parent="1">
           <mxGeometry x="1000" y="800" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="otJ-dLRZyGhxTNnClVan-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="otJ-dLRZyGhxTNnClVan-2" value="读入并临时存储" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1000" y="900" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
