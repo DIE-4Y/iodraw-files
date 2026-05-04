@@ -395,7 +395,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="muoWHMS3VMUwrerbCkoa-1" value="数据访问层" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="muoWHMS3VMUwrerbCkoa-1" value="数据访问层" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="605" y="69" width="206" height="118" as="geometry" />
         </mxCell>
         <mxCell id="muoWHMS3VMUwrerbCkoa-2" value="业务逻辑层" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
