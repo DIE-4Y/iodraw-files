@@ -401,7 +401,7 @@
         <mxCell id="muoWHMS3VMUwrerbCkoa-2" value="业务逻辑层" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="234" y="30" width="321" height="188" as="geometry" />
         </mxCell>
-        <mxCell id="muoWHMS3VMUwrerbCkoa-3" value="表现层" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="muoWHMS3VMUwrerbCkoa-3" value="表现层" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="20" y="20" width="164" height="217" as="geometry" />
         </mxCell>
         <mxCell id="muoWHMS3VMUwrerbCkoa-4" value="Vue.js" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
