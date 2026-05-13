@@ -70,7 +70,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="P-wWpsu1b4sHkeop33JQ-1" value="基于人物关系图谱的“剧本杀/小说”辅助阅读系统" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="191" y="390" width="346" height="60" as="geometry" />
+          <mxGeometry x="181" y="390" width="346" height="60" as="geometry" />
         </mxCell>
         <mxCell id="P-wWpsu1b4sHkeop33JQ-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="P-wWpsu1b4sHkeop33JQ-2" target="P-wWpsu1b4sHkeop33JQ-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -88,7 +88,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="P-wWpsu1b4sHkeop33JQ-4" value="交互与可视化模块" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="470" y="490" width="120" height="60" as="geometry" />
+          <mxGeometry x="460" y="490" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="P-wWpsu1b4sHkeop33JQ-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="P-wWpsu1b4sHkeop33JQ-35" target="P-wWpsu1b4sHkeop33JQ-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -136,7 +136,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="P-wWpsu1b4sHkeop33JQ-56" value="章节分页" style="rounded=0;whiteSpace=wrap;html=1;direction=south;textDirection=vertical-lr;" parent="1" vertex="1">
-          <mxGeometry x="487" y="600" width="30" height="170" as="geometry" />
+          <mxGeometry x="490" y="600" width="30" height="170" as="geometry" />
         </mxCell>
         <mxCell id="P-wWpsu1b4sHkeop33JQ-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="P-wWpsu1b4sHkeop33JQ-57" target="P-wWpsu1b4sHkeop33JQ-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
