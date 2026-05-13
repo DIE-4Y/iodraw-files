@@ -106,13 +106,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="P-wWpsu1b4sHkeop33JQ-48" value="命名实体识别与分词" style="rounded=0;whiteSpace=wrap;html=1;direction=south;textDirection=vertical-lr;" parent="1" vertex="1">
-          <mxGeometry x="230" y="600" width="30" height="170" as="geometry" />
+          <mxGeometry x="217" y="600" width="30" height="170" as="geometry" />
         </mxCell>
         <mxCell id="P-wWpsu1b4sHkeop33JQ-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="P-wWpsu1b4sHkeop33JQ-52" target="P-wWpsu1b4sHkeop33JQ-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="P-wWpsu1b4sHkeop33JQ-52" value="共现关系抽取" style="rounded=0;whiteSpace=wrap;html=1;direction=south;textDirection=vertical-lr;" parent="1" vertex="1">
-          <mxGeometry x="284" y="600" width="30" height="170" as="geometry" />
+          <mxGeometry x="294" y="600" width="30" height="170" as="geometry" />
         </mxCell>
         <mxCell id="P-wWpsu1b4sHkeop33JQ-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="P-wWpsu1b4sHkeop33JQ-53" target="P-wWpsu1b4sHkeop33JQ-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
