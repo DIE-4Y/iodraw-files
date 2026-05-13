@@ -148,7 +148,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="P-wWpsu1b4sHkeop33JQ-58" value="人物档案卡" style="rounded=0;whiteSpace=wrap;html=1;direction=south;textDirection=vertical-lr;" parent="1" vertex="1">
-          <mxGeometry x="590" y="600" width="30" height="170" as="geometry" />
+          <mxGeometry x="680" y="600" width="30" height="170" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
